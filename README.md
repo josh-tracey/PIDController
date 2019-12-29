@@ -32,9 +32,13 @@ fn main() {
 
 ## Possible Applications
 
-### Quadcopter
+There are plenty of uses for PID Controllers this is just a small sample of usages.
 
-Can be used for any combination of uses.
+### Air Conditioner
+
+- Temperature regulation - through controlled output and feebback loop from temp sensors`
+
+### Quadcopter
 
 - Altitude control
 - Speed control
