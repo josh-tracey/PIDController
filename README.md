@@ -1,4 +1,4 @@
-# AdriftDev PID Controller library
+# PID Controller library
 
 Proportional, integral, and derivative controller module designed to allow easy calculation of outputs based on feedback loop from plant equipment (sensors / microcontrollers). output of PID controller can control motors, servos, or any component that can output a varities of outputs to achieve targeted outcome.
 
